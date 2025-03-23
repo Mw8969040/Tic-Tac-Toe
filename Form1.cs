@@ -6,7 +6,6 @@ using Tic_Tac_Toe.Properties;
 
 namespace Tic_Tac_Toe
 {  
-    // test fetch;
     public partial class Form1 : Form
     {
         public Form1()
